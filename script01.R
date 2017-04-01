@@ -1,4 +1,6 @@
-number <- 10000
+# This test a random normal distribution
+
+number <- 100700
 
 count <- 0
 
